@@ -1,0 +1,12 @@
+レコード数,カラム名,v_count,NA件数
+418,PassengerId,418,0
+418,Pclass,3,0
+418,Name,418,0
+418,Sex,2,0
+418,Age,79,86
+418,SibSp,7,0
+418,Parch,8,0
+418,Ticket,363,0
+418,Fare,169,1
+418,Cabin,76,327
+418,Embarked,3,0
